@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="43705" started-at="2022-06-05T13:35:47Z" finished-at="2022-06-05T13:36:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="43705" started-at="2022-06-05T13:35:47Z" finished-at="2022-06-05T13:36:30Z">
+      <class name="com.selenium.shopinglist.SL0006">
+        <test-method status="PASS" signature="initializingDriver()[pri:0, instance:com.selenium.shopinglist.SL0006@548a9f61]" name="initializingDriver" is-config="true" duration-ms="5438" started-at="2022-06-05T18:35:47Z" finished-at="2022-06-05T18:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingDriver -->
+        <test-method status="PASS" signature="create_shopping_list()[pri:0, instance:com.selenium.shopinglist.SL0006@548a9f61]" name="create_shopping_list" duration-ms="6301" started-at="2022-06-05T18:35:52Z" finished-at="2022-06-05T18:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_shopping_list -->
+        <test-method status="PASS" signature="destroyingDriver()[pri:0, instance:com.selenium.shopinglist.SL0006@548a9f61]" name="destroyingDriver" is-config="true" duration-ms="1003" started-at="2022-06-05T18:35:58Z" finished-at="2022-06-05T18:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyingDriver -->
+      </class> <!-- com.selenium.shopinglist.SL0006 -->
+      <class name="com.selenium.shopinglist.SL0007">
+        <test-method status="PASS" signature="initializingDriver()[pri:0, instance:com.selenium.shopinglist.SL0007@1753acfe]" name="initializingDriver" is-config="true" duration-ms="3822" started-at="2022-06-05T18:35:59Z" finished-at="2022-06-05T18:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingDriver -->
+        <test-method status="PASS" signature="check_shopping_list_item_isSelected()[pri:0, instance:com.selenium.shopinglist.SL0007@1753acfe]" name="check_shopping_list_item_isSelected" duration-ms="12337" started-at="2022-06-05T18:36:03Z" finished-at="2022-06-05T18:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_shopping_list_item_isSelected -->
+        <test-method status="PASS" signature="destroyingDriver()[pri:0, instance:com.selenium.shopinglist.SL0007@1753acfe]" name="destroyingDriver" is-config="true" duration-ms="888" started-at="2022-06-05T18:36:15Z" finished-at="2022-06-05T18:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyingDriver -->
+      </class> <!-- com.selenium.shopinglist.SL0007 -->
+      <class name="com.selenium.shopinglist.SL0010">
+        <test-method status="PASS" signature="initializingDriver()[pri:0, instance:com.selenium.shopinglist.SL0010@7c16905e]" name="initializingDriver" is-config="true" duration-ms="3719" started-at="2022-06-05T18:36:16Z" finished-at="2022-06-05T18:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingDriver -->
+        <test-method status="PASS" signature="delete_unchecked_item_in_list()[pri:0, instance:com.selenium.shopinglist.SL0010@7c16905e]" name="delete_unchecked_item_in_list" duration-ms="9290" started-at="2022-06-05T18:36:20Z" finished-at="2022-06-05T18:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_unchecked_item_in_list -->
+        <test-method status="PASS" signature="destroyingDriver()[pri:0, instance:com.selenium.shopinglist.SL0010@7c16905e]" name="destroyingDriver" is-config="true" duration-ms="896" started-at="2022-06-05T18:36:29Z" finished-at="2022-06-05T18:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyingDriver -->
+      </class> <!-- com.selenium.shopinglist.SL0010 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

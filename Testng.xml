@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium">
+    <test name="Shopping List">
+        <classes>
+            <class name="com.selenium.shopinglist.SL0006"/>
+        </classes>
+    </test> <!-- Test -->
+
+<!--    <test name="Test Basics 2">-->
+<!--        <classes>-->
+<!--            <class name="practiceTests.testOptional"/>-->
+<!--        </classes>-->
+
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+</suite> <!-- Suite -->

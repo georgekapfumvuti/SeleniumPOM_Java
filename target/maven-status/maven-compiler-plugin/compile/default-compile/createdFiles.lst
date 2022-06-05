@@ -1,0 +1,5 @@
+com\selenium\pageobject\DocumentPage.class
+com\selenium\util\BaseUtil.class
+com\selenium\util\WebDriverManager.class
+com\selenium\pageobject\LandingPage.class
+com\selenium\util\Utils.class
